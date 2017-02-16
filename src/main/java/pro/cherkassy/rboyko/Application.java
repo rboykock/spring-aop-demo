@@ -1,11 +1,11 @@
-package pro.cherkassy.rboyko.beans;
+package pro.cherkassy.rboyko;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
-import pro.cherkassy.rboyko.beans.interfaces.Car;
+import pro.cherkassy.rboyko.beans.CarImplament;
 
 /**
  * Created by rboyko on 15.02.17.
